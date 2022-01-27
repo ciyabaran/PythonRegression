@@ -1,4 +1,4 @@
-CENG313_23_Heatran
+CENG313_23_Heatran Group Project
 
 We used Video_Games_Sales_as_at_22_Dec_2016.csv [1] and vgsales-12-4-2019.csv [2].
 
